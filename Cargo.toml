@@ -1,0 +1,8 @@
+[package]
+name = "ternary-curriculum"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/SuperInstance/ternary-curriculum"
+description = "Curriculum learning for ternary agents — progressively harder environments that train better strategies"
+keywords = ["curriculum", "learning", "ternary", "training", "agent"]
