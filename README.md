@@ -82,3 +82,11 @@ println!("Lessons completed: {}/{}", result.lessons_completed(), result.total_le
 ## License
 
 MIT
+
+## See Also
+- **ternary-fitness** — related
+- **ternary-ga** — related
+- **ternary-ensemble** — related
+- **ternary-gradient** — related
+- **ternary-evolution-advanced** — related
+
